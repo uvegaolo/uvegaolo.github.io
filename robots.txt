@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uvegaolo.github.io/sitemap_index.uvegaolo
